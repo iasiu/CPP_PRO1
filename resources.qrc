@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>dron.png</file>
+        <file>pojazd.png</file>
+        <file>pojazdladowy.png</file>
+        <file>pojazdpowietrzny.png</file>
+    </qresource>
+</RCC>
